@@ -1,0 +1,17 @@
+This project is inspired by STORM (Synthesis of Topic Outlines through
+Retrieval and Multi-perspective Question Asking), developed by the Stanford
+Open Virtual Assistant Lab (OVAL) and released under the MIT License:
+
+    https://github.com/stanford-oval/storm
+
+This repository re-implements the STORM *method* (multi-perspective,
+retrieval-grounded question asking → outline → grounded draft → review) as a
+native Claude skill. It does not include or redistribute any source code from
+the original STORM project.
+
+References:
+- STORM    — Shao et al., NAACL 2024 — https://arxiv.org/abs/2402.14207
+- Co-STORM — Jiang et al., EMNLP 2024 — https://arxiv.org/abs/2408.15232
+
+STORM and Co-STORM are the work of their respective authors. This project is
+not affiliated with or endorsed by Stanford OVAL.
